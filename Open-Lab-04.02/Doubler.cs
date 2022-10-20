@@ -11,7 +11,7 @@ namespace Open_Lab_04._02
             {
                 result = result + original[S] + original[S];
             }
-            return result;
+            return  result;
         }
     }
 }
